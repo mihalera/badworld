@@ -1,2 +1,0 @@
-# badworld
-Game
